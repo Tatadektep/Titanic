@@ -4,9 +4,6 @@ This week was all about Pandas and plotting. At this point you should be chompin
 
 For this lab, we're going to take a look at the Titanic manifest. We'll be exploring this data to see what we can learn regarding the survival rates of different groups of people.
 
-## Prework
-Fork and clone this repo.
-
 ## Step 1: Reading the data
 
 In the [notebook](./Titanic.ipynb) provided, do the following:
